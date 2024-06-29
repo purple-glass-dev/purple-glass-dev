@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @purple-glass-dev
 - 👀 I’m interested in Programming Python and in Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python/Javascript
 - 💞️ I’m looking to collaborate on Open Source Projects
 
 
